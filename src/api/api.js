@@ -1,0 +1,1 @@
+export const urlDefault = "https://swapi.dev/api/people/";
